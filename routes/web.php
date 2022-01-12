@@ -18,4 +18,10 @@ Route::get('/', function () {
     return view('index');
 });
 
-Route::get('/home', [HomeController::class, 'index']);
+Route::get('/home', function() {
+    return 'Halaman untuk Admin';
+})->middleware('role:admin')->name('home.index');
+
+Route::get('/user', function() {
+    return 'Halaman untuk User';
+})->middleware('role:user')->name('user.index');
