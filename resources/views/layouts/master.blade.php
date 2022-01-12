@@ -29,7 +29,7 @@ https://www.tooplate.com/view/2115-marvel
     <!-- MENU -->
     <nav class="navbar navbar-expand-sm navbar-light">
         <div class="container">
-            <a class="navbar-brand" href="index.html"><i class='uil uil-user'></i> Marvel</a>
+            <a class="navbar-brand" href="index.html"><i class='uil uil-user'></i> MRW</a>
 
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
                 aria-label="Toggle navigation">
@@ -41,13 +41,13 @@ https://www.tooplate.com/view/2115-marvel
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav mx-auto">
                     <li class="nav-item">
-                        <a href="#about" class="nav-link"><span data-hover="About">About</span></a>
+                        <a href="#about" class="nav-link"><span data-hover="About">Tentang</span></a>
                     </li>
                     <li class="nav-item">
-                        <a href="#project" class="nav-link"><span data-hover="Projects">Projects</span></a>
+                        <a href="#project" class="nav-link"><span data-hover="Projects">Portofolio</span></a>
                     </li>
                     <li class="nav-item">
-                        <a href="#resume" class="nav-link"><span data-hover="Resume">Resume</span></a>
+                        <a href="#resume" class="nav-link"><span data-hover="Resume">CV</span></a>
                     </li>
                     <li class="nav-item">
                         <a href="#contact" class="nav-link"><span data-hover="Contact">Contact</span></a>
@@ -75,20 +75,20 @@ https://www.tooplate.com/view/2115-marvel
           
           <div class="col-lg-5 mr-lg-5 col-12">
             <div class="google-map w-100">
-              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12088.558402180099!2d-73.99373482142036!3d40.75895421922642!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855b8fb3083%3A0xa0f9aef176042a5c!2sTheater+District%2C+New+York%2C+NY%2C+USA!5e0!3m2!1sen!2smm!4v1549875377188" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d990.8688254191431!2d106.76064742919287!3d-6.58767436745201!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69c4fd7ba41ded%3A0xb2eafc851e893406!2sBlk.%20G13-G14%20No.9%2C%20Padasuka%2C%20Ciomas%2C%20Kabupaten%20Bogor%2C%20Jawa%20Barat%2016610!5e0!3m2!1sid!2sid!4v1641958070781!5m2!1sid!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
             </div>
 
             <div class="contact-info d-flex justify-content-between align-items-center py-4 px-lg-5">
                 <div class="contact-info-item">
-                  <h3 class="mb-3 text-white">Say hello</h3>
-                  <p class="footer-text mb-0">010 020 0960</p>
-                  <p><a href="mailto:hello@company.co">hello@company.co</a></p>
+                  <h3 class="mb-3 text-white">Muhammad Rifqi Wahyudi</h3>
+                  <p class="footer-text mb-0">+62 895 3233 97134</p>
+                  <p><a href="mailto:hello@company.co">rifqiwahyudi16@gmail.com</a></p>
                 </div>
 
                 <ul class="social-links">
-                     <li><a href="#" class="uil uil-dribbble" data-toggle="tooltip" data-placement="left" title="Dribbble"></a></li>
-                     <li><a href="#" class="uil uil-instagram" data-toggle="tooltip" data-placement="left" title="Instagram"></a></li>
-                     <li><a href="#" class="uil uil-youtube" data-toggle="tooltip" data-placement="left" title="Youtube"></a></li>
+                     <li><a href="https://www.linkedin.com/in/rifqi-wahyudi-19290a193/" class="uil uil-link-alt" data-toggle="tooltip" data-placement="left" title="Dribbble"></a></li>
+                     <li><a href="https://instagram.com/mrw16_/" class="uil uil-instagram" data-toggle="tooltip" data-placement="left" title="Instagram"></a></li>
+                     <li><a href="https://github.com/mrw16/" class="uil uil-server-connection" data-toggle="tooltip" data-placement="left" title="Youtube"></a></li>
                 </ul>
             </div>
           </div>
